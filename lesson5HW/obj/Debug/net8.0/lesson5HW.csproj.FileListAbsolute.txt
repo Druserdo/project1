@@ -1,0 +1,14 @@
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\bin\Debug\net8.0\lesson5HW.exe
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\bin\Debug\net8.0\lesson5HW.deps.json
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\bin\Debug\net8.0\lesson5HW.runtimeconfig.json
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\bin\Debug\net8.0\lesson5HW.dll
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\bin\Debug\net8.0\lesson5HW.pdb
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\obj\Debug\net8.0\lesson5HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\obj\Debug\net8.0\lesson5HW.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\obj\Debug\net8.0\lesson5HW.AssemblyInfo.cs
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\obj\Debug\net8.0\lesson5HW.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\obj\Debug\net8.0\lesson5HW.dll
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\obj\Debug\net8.0\refint\lesson5HW.dll
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\obj\Debug\net8.0\lesson5HW.pdb
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\obj\Debug\net8.0\lesson5HW.genruntimeconfig.cache
+C:\Users\Mark\Desktop\Учеба\С#\project\lesson5HW\obj\Debug\net8.0\ref\lesson5HW.dll
